@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ignacio Ayerbe
 ======================================================================================================================================
 
-<iframe src="https://giphy.com/embed/hS42TuYYnANLFR9IRQ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/programming-404-topnode-hS42TuYYnANLFR9IRQ">via GIPHY</a></p>
 
 *   ✉️  You can contact me at [nachoayerbe2003@gmail.com](mailto:nachoayerbe2003@gmail.com)### Skills 
 <p align="left">
