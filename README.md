@@ -40,6 +40,6 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=T0p2&stroke=ffffff&b
 
 
 
-*   ✉️  You can contact me at [nachoayerbe2003@gmail.com](mailto:nachoayerbe2003@gmail.com)
+ ✉️  You can contact me at [nachoayerbe2003@gmail.com](mailto:nachoayerbe2003@gmail.com)
 
 
